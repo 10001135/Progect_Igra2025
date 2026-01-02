@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="21">
+ <tileset firstgid="1" name="Wall" tilewidth="16" tileheight="16" tilecount="1020" columns="20">
+  <image source="DawnLike/Objects/Wall.png" width="320" height="816"/>
+ </tileset>
+ <tileset firstgid="1021" name="Floor" tilewidth="16" tileheight="16" tilecount="819" columns="21">
+  <image source="DawnLike/Objects/Floor.png" width="336" height="624"/>
+ </tileset>
+ <tileset firstgid="1840" name="Pit0" tilewidth="16" tileheight="16" tilecount="256" columns="8">
+  <image source="DawnLike/Objects/Pit0.png" width="128" height="512"/>
+ </tileset>
+ <tileset firstgid="2096" name="Door0" tilewidth="16" tileheight="16" tilecount="0" columns="8">
+  <image source="DawnLike/Objects/Door0.png" width="128" height="96"/>
+ </tileset>
+ <tileset firstgid="2098" name="Decor0" tilewidth="16" tileheight="16" tilecount="176" columns="8">
+  <image source="DawnLike/Objects/Decor0.png" width="128" height="352"/>
+ </tileset>
+ <tileset firstgid="2274" name="Ground0" tilewidth="16" tileheight="16" tilecount="56" columns="8">
+  <image source="DawnLike/Objects/Ground0.png" width="128" height="112"/>
+ </tileset>
+ <tileset firstgid="2330" name="Player0" tilewidth="16" tileheight="16" tilecount="120" columns="8">
+  <image source="DawnLike/Characters/Player0.png" width="128" height="240"/>
+ </tileset>
+ <tileset firstgid="2450" name="Tree0" tilewidth="16" tileheight="16" tilecount="432" columns="12">
+  <image source="DawnLike/Objects/Tree0.png" width="192" height="576"/>
+ </tileset>
+ <tileset firstgid="2882" name="Humanoid0" tilewidth="16" tileheight="16" tilecount="216" columns="8">
+  <image source="DawnLike/Characters/Humanoid0.png" width="128" height="432"/>
+ </tileset>
+ <tileset firstgid="3098" name="Cat0" tilewidth="16" tileheight="16" tilecount="40" columns="8">
+  <image source="DawnLike/Characters/Cat0.png" width="128" height="80"/>
+ </tileset>
+ <tileset firstgid="3138" name="Quadraped0" tilewidth="16" tileheight="16" tilecount="96" columns="8">
+  <image source="DawnLike/Characters/Quadraped0.png" width="128" height="192"/>
+ </tileset>
+ <tileset firstgid="3234" name="Container0" tilewidth="16" tileheight="16" tilecount="24" columns="8">
+  <image source="DawnLike/Items/Chest0.png" width="128" height="48"/>
+ </tileset>
+ <tileset firstgid="3258" source="Door0.tsx"/>
+ <layer id="1" name="Floor" width="20" height="15">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,502,502,502,502,502,
+0,0,0,0,0,0,0,0,0,0,502,502,502,0,0,502,502,502,502,502,
+0,0,0,0,0,502,502,502,0,0,502,502,502,0,0,502,502,502,502,502,
+502,502,502,0,0,502,502,502,0,0,502,502,502,0,0,502,502,502,502,502,
+502,502,502,0,0,502,502,502,0,0,502,502,502,0,0,502,502,502,502,502,
+502,502,502,0,0,502,502,502,0,0,502,502,502,0,0,502,502,502,502,502
+</data>
+ </layer>
+ <objectgroup id="4" name="Door">
+  <object id="14" gid="3269" x="288.5" y="146.5" width="32" height="32"/>
+  <object id="15" name="Perehod" x="281.5" y="74" width="36" height="70"/>
+  <object id="17" gid="3269" x="287" y="131.5" width="32" height="32"/>
+  <object id="18" gid="3269" x="288.5" y="117" width="32" height="32"/>
+  <object id="19" gid="3269" x="287" y="101.5" width="32" height="32"/>
+ </objectgroup>
+ <layer id="5" name="Water" width="20" height="15">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,1945,1945,0,0,0,1945,1945,0,0,0,1945,1945,0,0,0,0,0,
+0,0,0,1945,1945,0,0,0,1945,1945,0,0,0,1945,1945,0,0,0,0,0
+</data>
+ </layer>
+</map>

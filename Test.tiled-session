@@ -1,0 +1,254 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Test2.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "DawnLike/Tsx_files",
+        "DawnLike/Examples",
+        ".",
+        "DawnLike"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Floor": {
+            "scaleInEditor": 1
+        },
+        "DawnLike/Examples/Blank.tmx": {
+            "scale": 1.6298437499999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159.83127216949478,
+                "y": 171.4888313680376
+            }
+        },
+        "DawnLike/Examples/Blank.tmx#Decor0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Blank.tmx#Door0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Blank.tmx#Floor": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Blank.tmx#Ground0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Blank.tmx#Pit0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Blank.tmx#Wall": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx": {
+            "scale": 1.6298437499999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159.83127216949478,
+                "y": 119.95014859553257
+            }
+        },
+        "DawnLike/Examples/Dungeon.tmx#Chest0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Decor0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Door0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Floor": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Ground0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Money": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Pest0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Pit0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Player0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Rodent0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Undead0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Dungeon.tmx#Wall": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx": {
+            "scale": 1.6298437499999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159.83127216949478,
+                "y": 119.95014859553257
+            }
+        },
+        "DawnLike/Examples/Mine.tmx#Avian0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Decor0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Door0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Elemental0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Floor": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Food": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Ground0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#LongWep": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Misc0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Ore0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Pit0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Player0": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Examples/Mine.tmx#Wall": {
+            "scaleInDock": 1
+        },
+        "DawnLike/Tsx_files/Engineer.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "DawnLike/Tsx_files/Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Door0.tsx": {
+            "scaleInDock": 1
+        },
+        "Hero.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 7.9090909090909065,
+                "y": 7.9090909090909065
+            }
+        },
+        "Probnik.tmx": {
+            "scale": 0.20781249999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 943.1578947368422,
+                "y": 122.70676691729318
+            }
+        },
+        "Probnik.tmx#Cat0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Container0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Decor0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Door0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Floor": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Ground0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Humanoid0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Pit0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Player0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Quadraped0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Tree0": {
+            "scaleInDock": 1
+        },
+        "Probnik.tmx#Wall": {
+            "scaleInDock": 1
+        },
+        "Test1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319,
+                "y": 55
+            }
+        },
+        "Test1.tmx#Floor": {
+            "scaleInDock": 1
+        },
+        "Test2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1211.5,
+                "y": 266.5
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Timur/PythonProject3/DawnLike/Commissions",
+    "map.fixedSize": true,
+    "map.height": 108,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 192,
+    "openFiles": [
+        "Test1.tmx",
+        "Test2.tmx",
+        "DawnLike/Tsx_files/Engineer.tsx",
+        "Hero.tmx"
+    ],
+    "project": "Test.tiled-project",
+    "recentFiles": [
+        "Test1.tmx",
+        "Hero.tmx",
+        "DawnLike/Tsx_files/Engineer.tsx",
+        "Test2.tmx",
+        "DawnLike/Tsx_files/Floor.tsx",
+        "DawnLike/Examples/Blank.tmx",
+        "DawnLike/Examples/Dungeon.tmx",
+        "DawnLike/Examples/Mine.tmx",
+        "Probnik.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
