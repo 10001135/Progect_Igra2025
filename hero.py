@@ -7,7 +7,7 @@ class Hero(arcade.Sprite):
     def __init__(self):
         super().__init__()
 
-        self.scale = 3 * SCALE
+        self.scale = 4 * SCALE
         self.speed = MOVE_SPEED
         self.jump_speed = JUMP_SPEED
         self.health = 100

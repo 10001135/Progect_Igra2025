@@ -48,9 +48,14 @@ class MainMenuView(arcade.View):
                                            height=texture_normal.height * SCALE * 0.7,
                                            text=text_d['play_button'],
                                            style=BUTTON_STYLE1)
-        play_button.on_click = lambda event: self.window.show_view(GameView_test_2())
+        play_button.on_click = self.disable_old_buttons # вызываем метод для начала нового уровня, кнопки и т.д выкл.
 
         self.box_layout.add(play_button)
+
+    def disable_old_buttons(self, event):
+        if event.button == 1:
+            self.window.show_view(GameView_test_2())
+            self.manager.disable()
 
     def on_draw(self):
         self.clear()
